@@ -1,0 +1,4 @@
+# test-things
+
+onRetainNonConfigurationInstance();
+getLastNonConfigurationInstance();
